@@ -18,9 +18,8 @@ A simple and user-friendly To-Do List application built with Python and the Tkin
 
 ### Downloading the Executable
 
-1. Go to the [Releases](https://github.com/yourusername/todo_app/releases) section of this repository (or directly to the file if it’s in the main branch).
-2. Download the `todo_app.exe` file.
-3. Navigate to the folder where you downloaded the executable.
+1. Download the `todo_app.exe` file.
+2. Navigate to the folder where you downloaded the executable.
 
 ### Running the Application
 
