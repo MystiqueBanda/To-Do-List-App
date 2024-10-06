@@ -20,17 +20,11 @@ A simple and user-friendly To-Do List application built with Python and the Tkin
 
 1. Go to the [Releases](https://github.com/yourusername/todo_app/releases) section of this repository (or directly to the file if it’s in the main branch).
 2. Download the `todo_app.exe` file.
-3. Double-click the executable to run the application.
+3. Navigate to the folder where you downloaded the executable.
 
-## Contributing
+### Running the Application
 
-Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [Tkinter](https://docs.python.org/3/library/tkinter.html) for the GUI framework.
-- [PyInstaller](https://www.pyinstaller.org/) for packaging the application.
+1. Double-click the `todo_app.exe` file to run the application.
+2. You can also run the application from the command line by navigating to the folder where the executable is located and typing:
+   ```bash
+   .\todo_app.exe
